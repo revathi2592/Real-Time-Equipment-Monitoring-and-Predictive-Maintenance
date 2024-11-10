@@ -1,4 +1,4 @@
-[Back to Readme](/README.md)
+[Back to Readme](README.md)
 
 **Event House Configuration**
 
