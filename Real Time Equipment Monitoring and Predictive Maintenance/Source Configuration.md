@@ -18,12 +18,12 @@
 
     SELECT * FROM pg_create_logical_replication_slot('my_replication_slot', 'pgoutput');
 
-        ![replication_slot](images\replication_slot.png)
+  ![replication_slot](images/replication_slot.png)
 - Grant the user role with replication permission
 
     ALTER ROLE <user_name> WITH REPLICATION;
 
-        ![role_replication](images\role_replication.png)
+  ![role_replication](images/role_replication.png)
 - To setup sample dataset,
     - run the  EquipmentSensorsDataGenerator.py
     - run the insert_transaction_data.py   
