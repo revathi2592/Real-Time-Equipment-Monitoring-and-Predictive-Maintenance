@@ -1,4 +1,5 @@
 [Back to Readme](\README.md)
+
 **Event House Configuration**
 
 - Once the event stream configuration is setup and streaming correctly, the KQL table will automatically get created in event house. 
