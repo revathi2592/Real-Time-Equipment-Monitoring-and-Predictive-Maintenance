@@ -6,4 +6,4 @@ Based on the raw/live streaming data and the aggregated data, the below can be d
     - per device KPI avg/variance
     - tabulare details of all devices
 
-![reporting](images\reporting.png)
+![reporting](images/reporting.png)
