@@ -4,8 +4,8 @@
 
 - The raw data from equipment sensor looks like the below
 
-![bronze](images\read_raw.png)
+![bronze](images/read_raw.png)
 
 - Below is the gold layer/aggregated data to be used in the report
 
-![bronze](images\aggregated_data.png)
+![bronze](images/aggregated_data.png)
